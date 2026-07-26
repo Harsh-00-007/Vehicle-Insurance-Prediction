@@ -1,0 +1,4 @@
+e23cseu2132_db_user
+LGfKIWi9ES9vmX9i
+
+mongodb+srv://e23cseu2132_db_user:<db_password>@cluster007.hrslpcp.mongodb.net/?appName=Cluster007
